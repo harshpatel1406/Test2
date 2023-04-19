@@ -1,1 +1,1 @@
-[{"index":"1","name":"Test2-1","parentIndex":null,"level":1,"position":"right","issueTitle":"isuue1"},{"index":"2","name":"Test2-2","parentIndex":null,"level":1,"position":"left","issueTitle":"issue2"},{"index":"1.1","name":"Test2-1.1","parentIndex":"1","level":2,"position":"right","issueTitle":"issue3"}]
+[{"index":"1","name":"Test2-1","parentIndex":null,"level":1,"position":"right","issueTitle":"isuue1"},{"index":"1.1","name":"Test2-1.1","parentIndex":"1","level":2,"position":"right","issueTitle":"issue3"}]
